@@ -1,2 +1,3 @@
 # Test-cases-writing--software-quality-assurance
-Test cases writing- software quality assurance module(3rd year) .write test cases for two different domain websites.15 test cases for each .we selected amazon &amp; telegram.
+Test cases writing- software quality assurance module(3rd year) .write test cases for two different domain websites.15 test cases for each .we selected amazon &amp; telegram.in amazon ,valid loging,invalid user name,invalid password,blank field,search product,add to cart,check out, apply discount code ,apply invalid discount code,view order history,track order,return product,log out, multiple logins,page load speed.(test cases).
+In telegram, login with valid credential,login with invalid phone,search for a contact,send a text message, send an image,create a new group,change profile picture,send a voice message,edit a sent message, delete a sent message ,log out,enable dark mode,pin a chart,block a user,join a public channel.(test cases)
